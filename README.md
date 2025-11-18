@@ -15,4 +15,8 @@
 
  [Стримлю доту тут](https://www.twitch.tv/zid3x)
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsafereactor.cc%2Fpost%2F5654579&psig=AOvVaw2HoKtPAhsvHy2mU9o9PKDS&ust=1763554408788000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMDC66PW-5ADFQAAAAAdAAAAABAE)
+![meme c++](https://www.meme-arsenal.com/memes/474a284d76cdc808358611944a32845e.jpg)
+
+![second c++ meme](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSXigboHB7C7ABfspdgXAKkuWxx6K41KI-yg&s)
+
+![third c++ meme](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfdgAGkVBpUDMyibToF26s0NxRKwfVcqVL5g&s)
