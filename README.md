@@ -1,6 +1,7 @@
 # Дота 2
 * Любимые позиции: 3, 2, 5
 * Любимые герои: цм, кентавр, лич, визаж, лон друид
+  
  _5 поз саппорт чаще всего тоненький, как курсив_ , **а 3 поз оффлейнер чаще всего жирный и плотный**
 
  |Позиция | Название |
@@ -14,4 +15,4 @@
 
  [Стримлю доту тут](https://www.twitch.tv/zid3x)
 
-
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsafereactor.cc%2Fpost%2F5654579&psig=AOvVaw2HoKtPAhsvHy2mU9o9PKDS&ust=1763554408788000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMDC66PW-5ADFQAAAAAdAAAAABAE)
